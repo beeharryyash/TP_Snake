@@ -72,7 +72,7 @@ Make sure that public static void main(string[]arg) is been selected during the 
     Copy and paste the code found in the Sourcecode file and paste it in 
     the SnakeApp.jave file
 
-    Once copy save and run the project.
+    Once copy, save and run the project.
 ```
 
 
